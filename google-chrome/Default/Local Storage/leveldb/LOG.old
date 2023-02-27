@@ -1,0 +1,7 @@
+2023/02/27-08:00:45.435 3 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/27-08:00:45.436 3 Recovering log #3
+2023/02/27-08:00:45.437 3 (ignoring error) /home/user/.config/google-chrome/Default/Local Storage/leveldb/000003.log: dropping 91 bytes; Corruption: bad record length
+2023/02/27-08:00:45.437 3 (ignoring error) /home/user/.config/google-chrome/Default/Local Storage/leveldb/000003.log: dropping 8883 bytes; Corruption: error in middle of record
+2023/02/27-08:00:45.437 3 (ignoring error) /home/user/.config/google-chrome/Default/Local Storage/leveldb/000003.log: dropping 32768 bytes; Corruption: checksum mismatch
+2023/02/27-08:00:45.437 3 (ignoring error) /home/user/.config/google-chrome/Default/Local Storage/leveldb/000003.log: dropping 367 bytes; Corruption: missing start of fragmented record(2)
+2023/02/27-08:00:45.440 3 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
