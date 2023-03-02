@@ -1,7 +1,13 @@
-2023/02/27-07:10:13.578 7652 Reusing MANIFEST /home/user/.config/google-chrome/Profile49/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/27-07:10:13.578 7652 Recovering log #4
-2023/02/27-07:10:13.578 7652 Reusing old log /home/user/.config/google-chrome/Profile49/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
-2023/02/27-07:10:18.673 7652 Level-0 table #8: started
-2023/02/27-07:10:18.678 7652 Level-0 table #8: 2095 bytes OK
-2023/02/27-07:10:18.681 7652 Delete type=0 #4
-2023/02/27-07:10:18.681 7652 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/02-08:48:18.886 a000 Reusing MANIFEST /home/user/.config/google-chrome/Profile49/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-08:48:18.886 a000 Recovering log #7
+2023/03/02-08:48:18.887 a000 Reusing old log /home/user/.config/google-chrome/Profile49/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000007.log 
+2023/03/02-08:48:21.967 a002 Level-0 table #11: started
+2023/03/02-08:48:21.968 a002 Level-0 table #11: 522 bytes OK
+2023/03/02-08:48:21.969 a002 Delete type=0 #7
+2023/03/02-08:48:21.969 a000 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 161 : 1
+2023/03/02-08:48:21.969 a000 Compacting 1@0 + 1@1 files
+2023/03/02-08:48:21.970 a000 Generated table #12@0: 76 keys, 1323 bytes
+2023/03/02-08:48:21.970 a000 Compacted 1@0 + 1@1 files => 1323 bytes
+2023/03/02-08:48:21.971 a000 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/02-08:48:21.971 a000 Delete type=2 #11
+2023/03/02-08:48:21.971 a000 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 161 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

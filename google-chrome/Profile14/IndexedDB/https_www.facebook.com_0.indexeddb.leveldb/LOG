@@ -1,7 +1,13 @@
-2023/02/27-07:51:31.982 efb3 Reusing MANIFEST /home/user/.config/google-chrome/Profile14/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/27-07:51:31.983 efb3 Recovering log #4
-2023/02/27-07:51:31.983 efb3 Reusing old log /home/user/.config/google-chrome/Profile14/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
-2023/02/27-07:51:32.614 efb6 Level-0 table #8: started
-2023/02/27-07:51:32.617 efb6 Level-0 table #8: 514 bytes OK
-2023/02/27-07:51:32.620 efb6 Delete type=0 #4
-2023/02/27-07:51:32.620 efb3 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/02-08:32:42.021 4c86 Reusing MANIFEST /home/user/.config/google-chrome/Profile14/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-08:32:42.021 4c86 Recovering log #7
+2023/03/02-08:32:42.022 4c86 Reusing old log /home/user/.config/google-chrome/Profile14/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000007.log 
+2023/03/02-08:32:46.446 4c88 Level-0 table #11: started
+2023/03/02-08:32:46.447 4c88 Level-0 table #11: 515 bytes OK
+2023/03/02-08:32:46.448 4c88 Delete type=0 #7
+2023/03/02-08:32:46.448 4c88 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 45 : 1
+2023/03/02-08:32:46.448 4c88 Compacting 1@0 + 1@1 files
+2023/03/02-08:32:46.449 4c88 Generated table #12@0: 7 keys, 447 bytes
+2023/03/02-08:32:46.449 4c88 Compacted 1@0 + 1@1 files => 447 bytes
+2023/03/02-08:32:46.449 4c88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/02-08:32:46.450 4c88 Delete type=2 #11
+2023/03/02-08:32:46.450 4c87 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 45 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

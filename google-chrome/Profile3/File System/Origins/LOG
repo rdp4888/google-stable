@@ -1,2 +1,3 @@
-2023/02/27-06:15:32.169 7652 Creating DB /home/user/.config/google-chrome/Profile3/File System/Origins since it was missing.
-2023/02/27-06:15:32.177 7652 Reusing MANIFEST /home/user/.config/google-chrome/Profile3/File System/Origins/MANIFEST-000001
+2023/03/02-08:28:30.673 32bb Reusing MANIFEST /home/user/.config/google-chrome/Profile3/File System/Origins/MANIFEST-000001
+2023/03/02-08:28:30.673 32bb Recovering log #3
+2023/03/02-08:28:30.673 32bb Reusing old log /home/user/.config/google-chrome/Profile3/File System/Origins/000003.log 

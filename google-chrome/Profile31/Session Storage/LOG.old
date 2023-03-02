@@ -1,2 +1,3 @@
-2023/02/27-05:14:02.176 3 Creating DB /home/user/.config/google-chrome/Default/Session Storage since it was missing.
-2023/02/27-05:14:02.190 3 Reusing MANIFEST /home/user/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/02/27-06:41:34.723 3 Reusing MANIFEST /home/user/.config/google-chrome/Profile31/Session Storage/MANIFEST-000001
+2023/02/27-06:41:34.724 3 Recovering log #3
+2023/02/27-06:41:34.727 3 Reusing old log /home/user/.config/google-chrome/Profile31/Session Storage/000003.log 

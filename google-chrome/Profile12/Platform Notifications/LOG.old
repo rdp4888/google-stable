@@ -1,2 +1,3 @@
-2023/02/27-05:47:59.060 44e0 Creating DB /home/user/.config/google-chrome/Profile12/Platform Notifications since it was missing.
-2023/02/27-05:47:59.066 44e0 Reusing MANIFEST /home/user/.config/google-chrome/Profile12/Platform Notifications/MANIFEST-000001
+2023/03/02-08:25:28.419 d50 Reusing MANIFEST /home/user/.config/google-chrome/Profile12/Platform Notifications/MANIFEST-000001
+2023/03/02-08:25:28.420 d50 Recovering log #3
+2023/03/02-08:25:28.420 d50 Reusing old log /home/user/.config/google-chrome/Profile12/Platform Notifications/000003.log 
